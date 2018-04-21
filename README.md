@@ -12,6 +12,12 @@ cd sysbench
 docker build -t tehusername/sysbench .
 ```
 
+Option 2:
+
+```
+docker pull tehusername/sysbench
+```
+
 ## Usage
 
 ```
